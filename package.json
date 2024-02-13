@@ -3,6 +3,10 @@
   "displayName": "Insert UUID at cursor",
   "description": "",
   "version": "0.0.1",
+  "license": "MIT",
+  "repository": {
+    "url": "https://github.com/genderquery/uuid-vscode-extension"
+  },
   "engines": {
     "vscode": "^1.86.0"
   },
